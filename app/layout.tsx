@@ -1,6 +1,7 @@
 import Sidebar from "@/components/Sidebar";
 import "./globals.css";
 import { Figtree } from "next/font/google";
+import Home from "./(site)/page";
 
 const font = Figtree({ subsets: ["latin"] });
 
